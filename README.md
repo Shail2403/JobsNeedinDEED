@@ -1,8 +1,27 @@
-# 🚀 JobsNeedinDEED
+<p align="center">
+  <img src="./staticFiles/JobsNeedinDEED_logo.png" width="150" />
+</p>
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+<h1 align="center">JobsNeedinDEED</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen">
+</p>
+
+---
 
 ## 🧩 Full Stack Application
-- Backend: Node.js
-- Frontend: React
-- Dockerized: Yes
+
+JobsNeedinDEED is a full-stack web application built to manage and streamline job-related workflows efficiently.
+
+---
+
+## ⚙️ Tech Stack
+
+- 🖥️ Backend: Node.js
+- 🎨 Frontend: React
+- 🐳 Dockerized: Yes
+
+---
+
+## 📁 Project Structure
