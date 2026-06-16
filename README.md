@@ -18,8 +18,8 @@ JobsNeedinDEED is a full-stack web application built to manage and streamline jo
 
 ## ⚙️ Tech Stack
 
-- 🖥️ Backend: Node.js
-- 🎨 Frontend: React
+- 🖥️ Backend: FastAPI
+- 🎨 Frontend: Next.js
 - 🐳 Dockerized: Yes
 
 ---
